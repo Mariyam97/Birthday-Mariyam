@@ -29,8 +29,8 @@ h1 {
 
 p {
     position: absolute;
-    top: 55%; 
-    left: 55%; 
+    top: 60%; 
+    left: 50%; 
     transform: translate(-50%, -50%);
     color: #fff;
     font-family: "Source Sans Pro";
